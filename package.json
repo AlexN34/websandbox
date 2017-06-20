@@ -1,0 +1,17 @@
+{
+  "name": "voicepoc",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "casper-chai": "^0.3.0",
+    "chai": "^4.0.0",
+    "mocha": "^3.4.2",
+    "mocha-casperjs": "^0.6.0",
+    "mocha-phantomjs": "^4.1.0"
+  },
+  "dependencies": {
+    "artyom.js": "^1.0.5"
+  }
+}
