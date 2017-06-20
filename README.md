@@ -1,5 +1,8 @@
+<<<<<<< HEAD
+# webAppSandbox
+Playing around with web apps
 Alex Nguyen Jun 2017
-# Voice POC
+## Voice POC
 - Stub project for testing out couple of interesting library functionalities:
 1. Transcrypt for Python - JS whilst using JS libraries
 2. Testing frameworks - Mocha/Chai/PhantomJS (maybe even explore pytest?)
